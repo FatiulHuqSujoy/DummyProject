@@ -7,4 +7,9 @@ public class FileA{
     x++;
     System.out.println(x);
   }
+  public void methodAB(){
+    x=10;
+    x--;
+    System.out.println(x);
+  }
 }
