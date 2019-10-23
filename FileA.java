@@ -9,7 +9,6 @@ public class FileA{
   }
   public void methodAB(){
     x=10;
-    x--;
     System.out.println(x);
   }
 }
