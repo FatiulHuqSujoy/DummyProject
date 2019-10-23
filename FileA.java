@@ -3,7 +3,7 @@ import what.ever;
 public class FileA{
   int x;
   public void methodAA(){
-    x=10;
+    x=20;
     x++;
     System.out.println(x);
   }
